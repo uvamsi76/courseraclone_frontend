@@ -1,0 +1,18 @@
+.default-style {
+  /* Default styles here */
+  background-color: #fff;
+  margin: 0%;
+  padding:0%;
+  padding-bottom: 15%;
+  height:100%;
+  width: 100%;
+}
+
+.special-style {
+  /* Special styles here */
+  background-color: #1E2028;
+  padding-bottom: 15.26%;
+  height: 100%;
+}
+
+/* e9f2ff */
